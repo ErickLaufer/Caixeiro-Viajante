@@ -1,0 +1,15 @@
+{
+  "name": "tsp-genetic",
+  "version": "1.0.0",
+  "description": "Algoritmo genetico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Alysson Antonietti",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
